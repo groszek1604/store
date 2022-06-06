@@ -1,0 +1,7 @@
+asgiref==3.5.1
+Django==4.0.4
+django-debug-toolbar==3.4.0
+django-phone-field==1.8.1
+mysql-connector-python @ http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.4.zip
+mysqlclient==2.1.0
+sqlparse==0.4.2
